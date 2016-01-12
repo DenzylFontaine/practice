@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Alabama vs CLemson;
-		Bears and Tigers meet for the first time this season to have a battle we will all remember!</title>
+	<head>Alabama vs Clemson
+		<title>Bears and Tigers meet for the first time this season to have a battle we will all remember!</title>
 	</head>
 	<body></body>
 	<p>
@@ -15,11 +14,3 @@ _end;
 ?>
 	</p>
 </html>
-
-
-<?php
-function longdate($timestamp)
-{
-	return date("l F jS Y", $timestamp);
-}
-?>
